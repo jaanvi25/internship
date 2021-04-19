@@ -1,0 +1,20 @@
+<style>
+        .mobshw {
+            display: none;
+        }
+        .qlinks {
+            width: 13%;
+        }
+    @media(max-width: 650px){
+        .mobshw {
+            display:grid;
+        }
+        .mobhid {
+            display: none;
+        }
+        .qlinks {
+            width: 100%;
+        }
+     }
+
+    </style>
